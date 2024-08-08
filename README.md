@@ -1,0 +1,2 @@
+# inventario-app
+Aplicacion angular
